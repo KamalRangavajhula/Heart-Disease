@@ -1,0 +1,6 @@
+Pandas package - import pandas as pd
+Numpy Package - import numpy as np
+Seaborn for visualization - import seaborn as sns
+train test split for splitting the training and testing data- import sklearn.model_selection import train_test_split
+import Logistic Regression from sklearn.LinearRegression package
+importing matplotlib.pyplot for performing the basic visualization
